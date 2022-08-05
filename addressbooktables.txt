@@ -1,4 +1,6 @@
+Schema Creation
 asplap3188@Asplap3188:~$ sudo mysql
+
 [sudo] password for asplap3188: 
 ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
 asplap3188@Asplap3188:~$ sudo mysql -u root -p
