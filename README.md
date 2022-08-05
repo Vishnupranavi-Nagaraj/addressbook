@@ -1,4 +1,4 @@
-# addressbook
+# addressbook - mvc app
 
 
 
